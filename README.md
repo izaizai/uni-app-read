@@ -1,6 +1,15 @@
 # uni-app-read
 
+本项目基于uni-app开发。
+
+![](https://github.com/itianc/uni-app-read/tree/master/doc/index.png)
+
+
+本项目使用了ColorUI：["https://github.com/weilanwl/ColorUI"](https://github.com/weilanwl/ColorUI)
+
+
 本模板核心是阅读器，其它界面只做了必要的功能性。
+
 
 感谢 lee 提供的WebView.evalJS解决方案。 感谢 渐渐 提供的左右滑动解决方案。
 

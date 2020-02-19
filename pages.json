@@ -1,0 +1,58 @@
+{
+	"pages": [
+		{
+			"path": "pages/bookshelf/index",
+			"style": {
+				"navigationBarTitleText": "书架"
+			}
+		},
+		{
+			"path": "pages/bookshelf/edit",
+			"style": {
+				"navigationBarTitleText": "编辑书架"
+			}
+		},
+		{
+			"path": "pages/bookshelf/read",
+			"style": {
+				"navigationBarTitleText": "阅读",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/book_mall/index",
+			"style": {
+				"navigationBarTitleText": "书城"
+			}
+		},
+		{
+			"path": "pages/book_mall/details",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "免费小说",
+		"navigationBarBackgroundColor": "#F6F6F6",
+		"backgroundColor": "#F6F6F6"
+	},
+	"tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#33363A",
+	    "borderStyle": "white",
+	    "backgroundColor": "#ffffff",
+	    "list": [{
+	        "pagePath": "pages/bookshelf/index",
+	        "iconPath": "static/images/bookshelf.png",
+	        "selectedIconPath": "static/images/bookshelf_s.png",
+	        "text": "书架"
+	    }, {
+	        "pagePath": "pages/book_mall/index",
+	        "iconPath": "static/images/book_mall.png",
+	        "selectedIconPath": "static/images/book_mall_s.png",
+	        "text": "书城"
+	    }]
+	}
+}

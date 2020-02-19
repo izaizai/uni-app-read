@@ -2,7 +2,7 @@
 
 本项目基于uni-app开发。
 
-![](https://github.com/itianc/uni-app-read/tree/master/doc/index.png)
+![](https://github.com/itianc/uni-app-read/blob/master/doc/index.png)
 
 
 本项目使用了ColorUI：["https://github.com/weilanwl/ColorUI"](https://github.com/weilanwl/ColorUI)
